@@ -67,7 +67,7 @@ if (CounterSymbol > 2) {
   Console.WriteLine("Result N: ");
   Console.WriteLine(ResultN);
 } else {
-    Console.WriteLine("Failed");
+  Console.WriteLine("Failed");
 }
 
 
